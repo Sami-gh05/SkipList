@@ -4,7 +4,9 @@ A C++ implementation of a Skip List data structure with support for various oper
 
 ## 📋 Overview
 
-A Skip List is a probabilistic data structure that allows for efficient search, insertion, and deletion operations with an average time complexity of O(log n). This implementation provides a robust set of features while maintaining simplicity and clarity.
+A Skip List is a probabilistic data structure that allows for efficient search, insertion, and deletion operations with an average time complexity of O(log n). This implementation provides a robust set of features while maintaining simplicity and clarity.  
+- I highly recommend you see this video in which **Prof. Erik Demaine** explains skip lists to understand it better:  
+https://www.youtube.com/watch?v=kBwUoWpeH_Q
 
 ## ✨ Features
 
@@ -82,6 +84,6 @@ This is a header-only implementation. Simply include the `skipList.cpp` file in 
 - The skip list maintains length information for efficient rank-based operations
 - The implementation includes a dummy head node for easier edge case handling
 
-## 📄 License
+## 🤝 Contributions  
+- Would be glad to see your comments!
 
-This project is open source and available under the MIT License.
